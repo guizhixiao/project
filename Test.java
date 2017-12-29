@@ -3,6 +3,5 @@ public class Test{
 		System.out.println("test23");
 		System.out.println("test2");
 		System.out.println("sss");
-		System.out.println("test4");
 	}
 }
